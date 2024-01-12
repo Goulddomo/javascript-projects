@@ -50,3 +50,5 @@ if (weatherStatus === "clear") {
 if (preparedForLiftOff === true) {
     console.log("LIFTOFF");
 }
+//Add comment
+
