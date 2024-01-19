@@ -3,6 +3,14 @@ let str = "LaunchCode";
 
 //1) Use string methods to remove the first three characters from the string and add them to the end.
 //Hint - define another variable to hold the new string or reassign the new string to str.
+console.log(str);
+newStr = str.replace('Lau','').concat("Lau");
+console.log(newStr);
+console.log
+
+let userInput = input.question('How many letters do you want shifted? ")
+newStr = str.substring(3, str.length) + str.substring(0,3)
+
 
 //Use a template literal to print the original and modified string in a descriptive phrase.
 
